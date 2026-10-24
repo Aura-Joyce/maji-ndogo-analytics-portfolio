@@ -1,6 +1,7 @@
 Agriculture Management and Tractor Traversal Project Report
 
 1. Business Problem
+   
 The ministry of agriculture in Maji Ndogo needed a better way to manage farm information and improve the efficiency of farming operations. At the beginning of the project, harvest information from different fields needed to be organized into a clear record showing the total harves, expenses, revenue, and profit. The ministry also needed a way to represent farm conditions and develop a reliable approach for guiding tractors across fields.
 
 One of the major challenges was tractor movement. Without a proper path-planning algorithm, a tractor could move inefficiently, repeat parts of its route, waste fuel, and leave some areas of a field uncovered.
@@ -8,15 +9,19 @@ One of the major challenges was tractor movement. Without a proper path-planning
 The main goal of the project was to use python to organize agricultural data, model basic farm behavior, and develop a systematic tractor-traversal approach.
 
 2. Tasks and Objectives
+   
 The project was completed through three connected notebooks.
 
 Notebook 1: Farm Harvest Management
+
 The first task was to organize the harvest records for two test fields: wheat and potatoes. I calculated the total harvest, expenses, revenue, and profit. I also cleaned crop names and formatted the results into a readable season summary. This notebook helped me understand how pythondata types and structures can be used to manage information clearly.
 
 Notebook 2: Building the Digital Twin
+
 The second task was to move beyond storing information and add logic to a digital representation of a farm. I worked with conditionals, loops, sets, and dictionaries to represent farm conditions,count planted cells, respond to fuel-related conditions, and maintain harvest records. This stage helped demonstrate how a farm model can represent information and respond to different situations.
 
 Notebook3: Tractor Traversal
+
 The third task was to develop functions that determine how a tractor moves across a field. I worked with standard and alternating row-traversal patterns, field summaries, reusable functions, and flexible function inputs. The main objective was to cover the field systematically while reducing unnecessary backtracking and turns.
 
 3. Deliverables
@@ -27,6 +32,7 @@ The third task was to develop functions that determine how a tractor moves acros
 * Tractor Traversal: Functions for genarating tractor paths, summarizing field layouts, and supporting reusable trip-related calculations and logging.
 
 4. Key Insights and Results
+   
 The first notebook showed how organized records can helpthe ministry understand farm production and financial performance.
 
 The second notebook demonstrated that agricultural information becomes more useful when the model can apply logic to it. For example, conditions can allow the model to respond differently depending on the tractor's fuel status, while data structures can help maintain harvest records.
@@ -42,6 +48,7 @@ The third notebook demonstrated the importance of planning tractor movement. An 
 * Alternating tractor traversal: This provides a systematic way to move between rows without returning to the same side after every pass.
 
 6 Limitations
+
 First, the harvest and financial calculations. The results do not establish the actual performance of all farms in Maji Ndogo.
 Second, the digital twin is a software model. The notebooks do not establish that a complete, working agricultural automation system has been deployed or connected to farm sensors.
 Third, the zizag traversal pattern is intended to reduce unnecessary movement, but the notebooks do not provide measured fuel consumption or prove a specific amount of fuel savings in field conditions. Actual results would depend on the tractor, terrain, field shape, obstacles, and turning requirements.
@@ -59,7 +66,10 @@ The project could be improved through the following steps:
 8. Evidence and Screenshots
 
 here, there is screenshots of final results after calculating all required things from notebook 1 to 3.
+
 screenshot 1: Farm Harvest Management
+
+<img width="1011" height="255" alt="notebook 1C" src="https://github.com/user-attachments/assets/364c0b1f-8404-4954-b0c1-d084e0ab783e" />
 
 
 
