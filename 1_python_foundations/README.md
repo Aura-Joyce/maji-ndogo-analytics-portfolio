@@ -75,8 +75,13 @@ screenshot 1: Farm Harvest Management
 
 
 screenshot 2: Building the Digital Twin 
+<img width="817" height="254" alt="notebook 2C" src="https://github.com/user-attachments/assets/a95ababd-c78f-49d2-a3ed-2f550b54ec6d" />
+
 
 screenshot 3: Tractor Traversal
+
+<img width="814" height="200" alt="notebook 3C" src="https://github.com/user-attachments/assets/6156387e-e6dc-4c81-8d72-1ed69e66cb5c" />
+
 
 9. Conclusion
 
