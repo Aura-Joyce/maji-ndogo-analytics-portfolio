@@ -89,3 +89,29 @@ This project helped me understand how Python can be applied to real agricultural
 
 One important lesson from the project is that the three notebooks are connected. The first organizes information, the second adds farm-model behavior, and the third focuses on systematic movement and reusable functions.
    
+This is more image from the project:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
