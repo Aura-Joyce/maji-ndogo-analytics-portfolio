@@ -91,12 +91,16 @@ One important lesson from the project is that the three notebooks are connected.
    
 This is more image from the project:
 
+<img width="460" height="346" alt="image2" src="https://github.com/user-attachments/assets/fa2ee4c3-138d-42a5-a051-1f1eb8bc3752" />
 
 
+<img width="460" height="379" alt="image3" src="https://github.com/user-attachments/assets/e8a9de32-9785-47c7-8c4d-d7043064e370" />
 
 
+<img width="477" height="294" alt="image4" src="https://github.com/user-attachments/assets/b5b7b4b7-81ae-417e-b82c-a4d27c25e0e7" />
 
 
+<img width="845" height="253" alt="image5" src="https://github.com/user-attachments/assets/b0eb9ebb-f9b5-4b67-a3ac-569f6ab2b2ec" />
 
 
 
